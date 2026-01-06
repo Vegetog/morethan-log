@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Vegetog Blog",
-    description: "welcome to Vegetog Blog!",
+    title: "📝Vegetog Journal",
+    description: "welcome to Vegetog Journal!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
